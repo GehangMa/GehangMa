@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @GehangMa
-- 📚 I’m interested in Physics & Aerospace Engineering
-- ⌨️ I’m currently learning Python, LaTeX and Matlab
-- 🎧 Rock, Metal, Jazz and R&B
-- 🏃🏻 Life is sports!
-- 📫 GehangMa@outlook.com
-- 📷 Instagram @Antulyn.x_x
+# I’m @GehangMa
+
+**High School Student**
+(He/Him/His)
+
+- Physics & Aerospace Engineering
+
+- Using&Learning: **Python, LaTeX and Matlab**
+  
+- Sports,Rock,Jazz and R&B
+
+Welcome to my Website:
+
+https://gehangma.github.io
+
+Email Me:
+<GehangMa@outlook.com>
+
 
 <!---
 GehangMa/GehangMa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
