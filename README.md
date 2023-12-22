@@ -5,11 +5,11 @@
 
 - Physics & Aerospace Engineering
 
-- Using&Learning: **Python, LaTeX and Matlab**
+- Using & Learning: **Python, LaTeX and Matlab**
   
-- Sports,Rock,Jazz and R&B
+- Sports, Reading, Rock,Jazz and R&B
 
-Welcome to my Website:
+Welcome to my Website (slowly developing🐌)：
 
 https://gehangma.github.io
 
