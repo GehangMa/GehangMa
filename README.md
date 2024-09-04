@@ -16,5 +16,4 @@ https://gehangma.github.io
 Email Me:
 <GehangMa@outlook.com>
 
-[![Gehang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GehangMa)](https://github.com/GehangMa/github-readme-stats)
-
+<!--[![Gehang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GehangMa)](https://github.com/GehangMa/github-readme-stats) -->
