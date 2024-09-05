@@ -5,7 +5,7 @@
 
 - Physics & Aerospace Engineering
 
-- Using & Learning: **Python, LaTeX and Matlab**
+- Using & Learning: **Python, LaTeX, CSS, Java, Javascript and Matlab**
   
 - Sports, Reading, Rock,Jazz and R&B
 
