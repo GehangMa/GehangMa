@@ -13,6 +13,8 @@ Welcome to my Website (slowly developing🐌)：
 
 https://gehangma.github.io
 
+For installing [RADMC3D](https://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/) on Windows, please see [here](https://gehangma.github.io/install-radmc3d-windows/)
+
 Email Me:
 <GehangMa@outlook.com>
 
